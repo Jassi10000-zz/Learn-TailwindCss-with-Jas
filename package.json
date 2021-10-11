@@ -1,0 +1,26 @@
+{
+  "name": "Learn-TailwindCss-with-Jas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jassi10000/Learn-TailwindCss-with-Jas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jassi10000/Learn-TailwindCss-with-Jas/issues"
+  },
+  "homepage": "https://github.com/Jassi10000/Learn-TailwindCss-with-Jas#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.3.7",
+    "postcss": "^8.3.9",
+    "tailwindcss": "^2.2.16",
+    "vite": "^2.6.7"
+  }
+}
